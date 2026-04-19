@@ -1,0 +1,48 @@
+{
+    "Fusemachines": {
+        "Senior Software Engineer": "NPR 124k - 150k",
+        "Senior ML Engineer": "NPR 116k - 125k",
+        "General": "NPR 60k - 200k+",
+        "Gossips": "Flexible work, hybrid culture, stocks after 3 years, vacation bonuses. Some say pay is 'comfy' but slightly lower than international remote standards.",
+        "Sources": [
+            "Reddit r/technepal",
+            "Glassdoor"
+        ]
+    },
+    "eSewa": {
+        "Junior / Entry": "NPR 18k - 30k",
+        "Mid / Senior": "NPR 35k - 60k",
+        "Technical / IT": "NPR 60k - 150k+",
+        "Internships": "NPR 5k - 10k",
+        "Gossips": "Fast-paced, part of F1Soft ecosystem. Competitive for local market, but high pressure due to service volume.",
+        "Sources": [
+            "Reddit r/Nepal",
+            "NecoJobs"
+        ]
+    },
+    "F1Soft": {
+        "General": "NPR 40k - 180k+",
+        "Gossips": "Major fintech player in Nepal. Good place to gain industry experience, though can be stressful. Multiple subsidiaries (eSewa, Fonepay).",
+        "Sources": [
+            "Reddit",
+            "LinkedIn"
+        ]
+    },
+    "Leapfrog Technology": {
+        "Software Engineer": "NPR 80k - 150k",
+        "Senior Engineer": "NPR 160k - 250k+",
+        "Gossips": "Known for high standards and competitive pay for top talent. Good learning environment but can have demanding workloads.",
+        "Sources": [
+            "Glassdoor",
+            "Social Media"
+        ]
+    },
+    "Verisk": {
+        "General": "NPR 100k - 250k+",
+        "Gossips": "International standards, stable corporate environment, excellent benefits. Highly sought after for senior roles.",
+        "Sources": [
+            "Glassdoor",
+            "Internal referrals"
+        ]
+    }
+}
