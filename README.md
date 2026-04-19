@@ -27,7 +27,7 @@ This project was built upon an open-source data extraction engine, which was the
 
 ## Deployment
 
-The application is architected for high performance and is hosted on Vercel for the global community.
+The application is architected for high performance and is hosted on Vercel for the global community. Visit the live site at [kamkosandesh.vercel.app](https://kamkosandesh.vercel.app).
 
 ---
 
