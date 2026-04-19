@@ -4,13 +4,20 @@ Kaam ko Sandesh is a high-end career intelligence dashboard designed for the Nep
 
 This project was built upon an open-source data extraction engine, which was then extended with a premium UI/UX, advanced filtering capabilities, and a dedicated career resources arsenal.
 
+## Visual Overview
+
+![Kaam ko Sandesh Hero](assets/hero.png)
+
 ## Features
 
 - **Consolidated Market Intel**: Real-time job listings from major tech players like eSewa, Fusemachines, Leapfrog, and more.
+![Dashboard View](assets/dashboard.png)
 - **Hidden Salary Benchmarks**: Integrated community-sourced salary ranges for better negotiation power.
 - **Insider Insights**: Verified "gossips" and community feedback about company culture and pressure levels.
-- **Advanced Taxonomy**: Filter by specialization (Engineering, Data, Design, etc.) and specific intelligence criteria.
-- **Career Arsenal**: tactical resources for resume engineering and interview playbooks tailored to the local market.
+- **Advanced Taxonomy**: Filter by specialization (Engineering, Data, Design, etc.) and specific criteria.
+![Mobile View](assets/mobile.png)
+- **Career Arsenal**: Tactical resources for resume engineering and interview playbooks.
+![Career Arsenal](assets/arsenal.png)
 
 ## How It Works
 
